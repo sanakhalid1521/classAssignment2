@@ -1,0 +1,48 @@
+header {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.pic img {
+    width: 60%;
+    height: auto; 
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #bd6e6e;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #390404; 
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    border: 1px solid #0e364b;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #021830;
+    color: white;
+}
+
+tr {
+    background-color: #809154;
+}
+
+tr:hover {
+    background-color: #6d8a42; 
+}
